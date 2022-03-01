@@ -1,0 +1,48 @@
+.wrapper {
+  min-width: 800px;
+}
+.table-title {
+  padding-bottom: 15px;
+  background: #435d7d;
+  color: #fff;
+  padding: 16px 30px;
+  min-width: 100%;
+  margin: -20px -25px 10px;
+  border-radius: 3px 3px 0 0;
+}
+.table-title h2 {
+  font-size: 26px;
+}
+.table-title .btn {
+  color: #fff;
+  float: right;
+  font-size: 13px;
+  border: none;
+  min-width: 50px;
+  border-radius: 2px;
+  border: none;
+  outline: none !important;
+}
+.table-title .btn i {
+  float: left;
+  font-size: 21px;
+  margin-right: 5px;
+}
+table.table tr th:last-child {
+  width: 150px;
+}
+table.table-striped.table-hover tbody tr:hover {
+  background: #e4d8d8;
+}
+table.table th {
+  padding-left: 1cm;
+}
+table.table tr td {
+  padding: 12px 15px;
+}
+.centered {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  width: 300px;
+}

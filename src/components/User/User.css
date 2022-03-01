@@ -1,0 +1,27 @@
+.btn-act {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.modal .modal-dialog {
+  max-width: 450px;
+}
+.modal .modal-header,
+.modal .modal-body,
+.modal .modal-footer {
+  padding: 20px 30px;
+}
+
+.modal .modal-footer,
+.modal-header {
+  background: #c3dde2;
+  border-radius: 6px;
+}
+.modal .form-control {
+  border-radius: 2px;
+  box-shadow: none;
+  border-color: #a0c0c7;
+}
+.modal .btn {
+  border-radius: 4px;
+  min-width: 70px;
+}

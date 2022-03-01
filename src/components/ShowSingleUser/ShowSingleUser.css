@@ -1,0 +1,26 @@
+.card-style {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  width: 400px;
+}
+.card-title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px 0;
+}
+.text span {
+  display: block;
+  font-weight: 500;
+}
+.text span i {
+  font-weight: normal;
+}
+.image {
+  height: 400px;
+}
+.image1 {
+  height: 370px;
+}
